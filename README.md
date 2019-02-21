@@ -20,6 +20,14 @@ This function required 3 parameters:
 - - Example: to register the `VoidStreamWrapper` you should pass `\PhpUnified\StreamWrapper\VoidStreamWrapper::class` to this parameter.
 - $flags: This parameter expects an integer, either `STREAM_IS_URL` (for a HTTP stream) or `0` (for a local stream, this is the default).
 
+## Change log
+
+Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) and [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) for details.
+
 ## MIT License
 
 Copyright (c) 2019 Jyxon
